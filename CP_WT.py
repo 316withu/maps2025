@@ -92,3 +92,6 @@ if status in [cp_model.OPTIMAL, cp_model.FEASIBLE]:
     print("[Excel] CP 의사결정 로그 저장 완료 → CP_decision_log.xlsx")
 else:
     print("❌ 해를 찾지 못했습니다.")
+
+
+##############################
