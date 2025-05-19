@@ -1,0 +1,21 @@
+id,machine,start,processing_time,due_date,color,weight
+1,Machine A,99,7,18,#dc48f4,3
+2,Machine A,16,9,12,#286321,6
+3,Machine B,4,4,40,#6fd23d,2
+4,Machine A,31,8,20,#2337b3,3
+5,Machine A,1,6,15,#85adc7,2
+6,Machine A,5,6,23,#b892f5,4
+7,Machine A,38,7,19,#98c0a0,8
+8,Machine A,35,7,42,#60d89b,6
+9,Machine B,72,4,14,#84ccc9,7
+10,Machine A,55,6,42,#a78e1b,6
+11,Machine A,38,6,32,#cb0870,9
+12,Machine A,48,4,31,#c69908,10
+13,Machine A,8,5,34,#714c90,7
+14,Machine B,18,5,24,#2b5634,4
+15,Machine B,92,5,30,#251bf7,6
+16,Machine B,78,4,38,#7215c3,10
+17,Machine B,28,8,35,#bdf1f5,6
+18,Machine A,72,6,33,#189b0c,8
+19,Machine A,6,6,42,#68cee7,1
+20,Machine A,3,6,20,#97df05,9
